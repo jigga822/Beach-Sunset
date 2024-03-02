@@ -1,0 +1,23 @@
+body{
+    background: black;
+}
+
+#sunset{
+    margin-left: 180px;
+    margin-top: 50px;
+    font-family: "Libre Baskerville", serif;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    
+    
+    
+
+}
+
+.beach {
+    width: 40%;
+    border: 20px lightskyblue ;
+    border-style: ridge;
+    
+}
